@@ -6,3 +6,4 @@ Deixar resumos sobre o curso de versionamento de códigos com o git e github.
 
 - [Documentação GIT](https://git-scm.com/docs/git-rm)
 - teste
+- testando
